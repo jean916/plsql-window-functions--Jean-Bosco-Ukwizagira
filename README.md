@@ -240,9 +240,11 @@ ORDER BY cum_dist DESC;
 
 ##  Results Analysis
 
-Descriptive: Mango juice ranked as the top product in Kigali; Musanze shows steady growth in chips.
-Diagnostic: Kigali branch leads due to higher customer density and frequent repeat orders, 
-while Rwamagana underperforms due to limited product variety.
+Descriptive: Mango juice ranked as the top product in Kigali; Musanze shows steady growth in chips. 
+
+Diagnostic: Kigali branch leads due to higher customer density and frequent repeat orders. 
+While Rwamagana underperforms due to limited product variety.
+
 Prescriptive: Increase inventory of Coffee Beans in Kigali, launch promotions for underperforming products in Huye, and target mid-tier customers with loyalty rewards.
 
 ##  References
